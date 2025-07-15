@@ -1,0 +1,18 @@
+/* Cambiar el título principal */
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #004d99;
+}
+
+/* Cambiar el fondo del formulario */
+form {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Agregar espacio debajo del carrusel */
+.carousel {
+    margin-bottom: 40px;
+}
